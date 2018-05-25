@@ -1,0 +1,4 @@
+model_checkpoint_path: "twoLayerNN-90"
+all_model_checkpoint_paths: "twoLayerNN-70"
+all_model_checkpoint_paths: "twoLayerNN-80"
+all_model_checkpoint_paths: "twoLayerNN-90"
